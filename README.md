@@ -66,7 +66,7 @@ The following preprocessing steps were performed:
    * EmployeeCount
    * Over18
    * StandardHours
-7. Removed unnecessary columns where applicable.
+7.  Created new columns where applicable.
 8. Verified numerical and categorical features.
 
 ## Exploratory Data Analysis (EDA)
