@@ -287,6 +287,9 @@ Author
 Lakshmi Prabhakar
 
 Data Analytics Project using Python, Pandas, Seaborn, Matplotlib, and Plotly
+
 Dataset Type: Structured CSV Dataset
+
 Source: IBM HR Analytics Employee Attrition & Performance Dataset
+
 Domain: Human Resource Analytics
