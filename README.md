@@ -131,7 +131,8 @@ The project includes multiple visualizations to better understand employee behav
 
 Analyzes the proportion of employees who left the organization compared to those who stayed.
 
-![Employee Attrition Distribution](images/attrition-distribution.png)
+<img width="453" height="299" alt="image" src="https://github.com/user-attachments/assets/dc9c55f9-cdc8-4956-bce1-89c1a33eddb6" />
+
 
 ---
 
