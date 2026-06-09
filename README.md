@@ -140,7 +140,8 @@ Analyzes the proportion of employees who left the organization compared to those
 
 Shows the distribution of employees across different departments.
 
-![Department Distribution](images/department-distribution.png)
+<img width="686" height="335" alt="image" src="https://github.com/user-attachments/assets/c723a0f4-37d7-46f9-b67a-3683fe3da75b" />
+
 
 ---
 
@@ -148,7 +149,8 @@ Shows the distribution of employees across different departments.
 
 Provides insights into workforce gender composition.
 
-![Gender Distribution](images/gender-distribution.png)
+<img width="470" height="299" alt="image" src="https://github.com/user-attachments/assets/1dd6404f-c7a5-4ac9-8038-f7f571c1fa6f" />
+
 
 ---
 
@@ -156,7 +158,8 @@ Provides insights into workforce gender composition.
 
 Displays the number of employees in each job role.
 
-![Job Role Distribution](images/job-role-distribution.png)
+<img width="814" height="336" alt="image" src="https://github.com/user-attachments/assets/550ce435-fbcf-4782-bd01-442215bd4127" />
+
 
 ---
 
@@ -164,7 +167,8 @@ Displays the number of employees in each job role.
 
 Illustrates employee age patterns and workforce demographics.
 
-![Age Distribution](images/age-distribution.png)
+<img width="574" height="335" alt="image" src="https://github.com/user-attachments/assets/38bc4065-9e95-4938-bdb8-aa780d12bff6" />
+
 
 ---
 
@@ -172,7 +176,8 @@ Illustrates employee age patterns and workforce demographics.
 
 Analyzes salary distribution among employees.
 
-![Monthly Income Distribution](images/monthly-income-distribution.png)
+<img width="571" height="336" alt="image" src="https://github.com/user-attachments/assets/4a456f40-37ce-4281-81a3-4f294a7419e5" />
+
 
 ---
 
@@ -180,7 +185,8 @@ Analyzes salary distribution among employees.
 
 Identifies departments experiencing higher employee turnover.
 
-![Attrition by Department](images/attrition-department.png)
+<img width="675" height="337" alt="image" src="https://github.com/user-attachments/assets/f925ea6d-baf6-46d6-811c-79918d441d25" />
+
 
 ---
 
@@ -188,7 +194,8 @@ Identifies departments experiencing higher employee turnover.
 
 Highlights job roles with higher attrition rates.
 
-![Attrition by Job Role](images/attrition-job-role.png)
+<img width="851" height="339" alt="image" src="https://github.com/user-attachments/assets/780166cc-7777-44bd-be8e-f4c3a7bd62ab" />
+
 
 ---
 
@@ -196,7 +203,8 @@ Highlights job roles with higher attrition rates.
 
 Examines the relationship between overtime and employee turnover.
 
-![Attrition by Overtime](images/attrition-overtime.png)
+<img width="536" height="329" alt="image" src="https://github.com/user-attachments/assets/7fede9dd-2ce2-41cc-819a-1f0df3ac13c8" />
+
 
 ---
 
@@ -204,7 +212,8 @@ Examines the relationship between overtime and employee turnover.
 
 Investigates how satisfaction levels impact employee retention.
 
-![Job Satisfaction vs Attrition](images/job-satisfaction-attrition.png)
+<img width="593" height="334" alt="image" src="https://github.com/user-attachments/assets/79854d93-50e4-433f-bb3a-861f1c2a8b51" />
+
 
 ---
 
@@ -212,7 +221,8 @@ Investigates how satisfaction levels impact employee retention.
 
 Displays relationships between numerical variables in the dataset.
 
-![Correlation Heatmap](images/correlation-heatmap.png)
+<img width="447" height="307" alt="image" src="https://github.com/user-attachments/assets/c437e1f8-3bb2-4d69-b273-16ec378f2b98" />
+
 
 ---
 
