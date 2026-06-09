@@ -281,3 +281,12 @@ jupyter notebook
 This HR Analytics project successfully explored employee attrition patterns using data analysis and visualization techniques. The findings reveal that factors such as overtime, job satisfaction, income, work-life balance, and job role play important roles in employee turnover.
 
 The insights generated from this analysis can help HR teams make informed decisions, improve employee retention strategies, and create a more productive work environment. By leveraging data-driven approaches, organizations can proactively address attrition and enhance workforce stability.
+
+Author
+
+Lakshmi Prabhakar
+
+Data Analytics Project using Python, Pandas, Seaborn, Matplotlib, and Plotly
+Dataset Type: Structured CSV Dataset
+Source: IBM HR Analytics Employee Attrition & Performance Dataset
+Domain: Human Resource Analytics
